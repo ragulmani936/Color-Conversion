@@ -139,7 +139,7 @@ iV) RGB TO GRAY
 
 ### iv) Split and merge RGB Image
 i) RGB TO YCrCb
-![img 4.1]()
+![img 4.1](https://github.com/ragulmani936/Color-Conversion/blob/main/img%204.1.png)
 
 
 ii) BGR TO YCrCB
