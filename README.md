@@ -123,7 +123,7 @@ i) BGR TO HSV
 
 
 ii) BGR TO GRAY
-![img 2.1]()
+![img 2.1](https://github.com/ragulmani936/Color-Conversion/blob/main/img%202.1.png)
 
 
 iii) RGB TO HSV
