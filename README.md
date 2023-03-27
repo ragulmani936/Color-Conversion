@@ -131,11 +131,11 @@ iii) RGB TO HSV
 
 
 iV) RGB TO GRAY
-![img 2.3]()
+![img 2.3](https://github.com/ragulmani936/Color-Conversion/blob/main/2.3.png)
 
 ### iii) RGB and BGR to YCrCb
 
-![img 3]
+![img 3]()
 
 ### iv) Split and merge RGB Image
 i) RGB TO YCrCb
