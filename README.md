@@ -113,39 +113,20 @@ cv2.destoryAllWindows()
 ![img 1]()
 
 ### ii) HSV to RGB and BGR
-i) BGR TO HSV
 ![img 2]()
 
 
-ii) BGR TO GRAY
-![img 2.1]()
-
-
-iii) RGB TO HSV
-![img 2.2]()
-
-
-iV) RGB TO GRAY
-![img 2.3]()
-
 ### iii) RGB and BGR to YCrCb
-
 ![img 3]()
 
+
 ### iv) Split and merge RGB Image
-i) RGB TO YCrCb
-![img 4.1]()
+![img 4]()
 
-
-ii) BGR TO YCrCB
-![img 4.2]()
 
 ### v) Split and merge HSV Image
-![img 7]()
 
-### vi) 6. Split and merge HSV Image
-![img 8]()
-
+![img 5]()
 
 ## Result:
 Thus the color conversion was performed between RGB, HSV and YCbCr color models.
