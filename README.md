@@ -113,7 +113,7 @@ cv2.destoryAllWindows()
 ![img1](https://user-images.githubusercontent.com/94881918/228266772-94c08b00-f733-4e65-8056-dcc9093985a4.png)
 
 ### ii) HSV to RGB and BGR
-![img 2](https://github.com/ragulmani936/Color-Conversion/blob/main/img2.png)
+![img2](https://user-images.githubusercontent.com/94881918/228267093-a0e059f7-ff76-4987-8252-055bcbc7e2e5.png)
 
 
 ### iii) RGB and BGR to YCrCb
